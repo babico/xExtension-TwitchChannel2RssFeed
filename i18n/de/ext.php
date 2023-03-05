@@ -1,9 +1,9 @@
 <?php
 
 return array(
-	'YouTubeChannel2RssFeed' => array(
+	'TwitchChannel2RssFeed' => array(
         'install' => array(
-            'bad_freshrss' => 'Für "YouTubeChannel2RssFeed" ist mindestens die FreshRSS-Version `%s` erforderlich. (Sie verwenden die FreshRSS-Version `%s`)',
+            'bad_freshrss' => 'Für "TwitchChannel2RssFeed" ist mindestens die FreshRSS-Version `%s` erforderlich. (Sie verwenden die FreshRSS-Version `%s`)',
         ),
 	),
 );
