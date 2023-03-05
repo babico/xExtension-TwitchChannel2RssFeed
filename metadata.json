@@ -1,0 +1,8 @@
+{
+	"name": "TwitchChannel2RssFeed",
+	"author": "Babico",
+	"description": "Transfer Twitch Channel URL into RSS Feed URL.",
+	"version": 0.2,
+	"entrypoint": "TwitchChannel2RssFeed",
+	"type": "user"
+}
